@@ -1,2 +1,4 @@
-# jobs-node-js
-Aplicação com intuito de estudo, para gerenciamento e inscrição para vagas de trabalho
+# Jobs
+Gerenciamento e inscrição para vagas de trabalho.
+
+### Aplicação em desenvolvimento
